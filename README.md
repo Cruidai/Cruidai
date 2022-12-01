@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+### I'm a Cyber Security major attending UTSA, I hope you'll appreciate this page and look at what I have to offer!
 <!--
 **Cruidai/Cruidai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
